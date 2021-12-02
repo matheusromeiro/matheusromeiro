@@ -1,10 +1,8 @@
 ## Opa, e aí pessoal!🙃
 ### Eu sou o Matheus, e sejam bem-vindos ao meu perfil!😐
 
-- 🏫 Sou técnico em Desenvolvimento de Sistemas e em Informática para Internet pela ETEC;
+- 🙂 Tenho 17 anos e sou Desenvolvedor Front-end;
 - 👔 Trabalho com desenvolvimento web desde 2019;
-- 🖥️ Sou da parte do desenvolvimento front-end;
-- 📖 Trabalho com HTML5, CSS3, JavaScript, TyperScript, ReactJS e MySQL;
 - 💪 Sempre que possível, procuro me especializar na minha área :)
 - ⚡ Fun facts😮: Gosto de café! Sim, café é vida!!☕☕
 

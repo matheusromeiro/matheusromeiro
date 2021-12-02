@@ -3,15 +3,17 @@
 
 - 🏫 Sou técnico em Desenvolvimento de Sistemas e em Informática para Internet pela ETEC;
 - 👔 Trabalho com desenvolvimento web desde 2019;
-- 🖥️ Minha área é o desenvolvimento front-end;
+- 🖥️ Sou da parte do desenvolvimento front-end;
 - 📖 Trabalho com HTML5, CSS3, JavaScript, TyperScript, ReactJS e MySQL;
-- 💪 Busco sempre que possível, estar me especializando na minha área :)
+- 💪 Sempre que possível, procuro me especializar na minha área :)
 - ⚡ Fun facts😮: Gosto de café! Sim, café é vida!!☕☕
+
+##
 
 <div>
   <a href="https://github.com/matheusmomeiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusromeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusromeiro&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img widht="48%" src="https://github-readme-stats.vercel.app/api?username=matheusromeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusromeiro&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
  
 <div style="display: inline_block"><br>

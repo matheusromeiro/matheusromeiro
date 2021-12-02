@@ -33,4 +33,4 @@
   <a href="https://twitter.com/rom3ir0" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white"></a>  
 </div>
   
-![Snake animation](https://github.com/matheusromeiro/matheusromeiro/.github/workflows/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

@@ -21,7 +21,6 @@
   <img align="center" alt="matheus-Ts" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="matheus-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="matheus-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="right" alt="matheus-pic" height="140" src="https://media.discordapp.net/attachments/789171207206469693/915770019152011314/naquelas.gif">
 </div>
   
 ##

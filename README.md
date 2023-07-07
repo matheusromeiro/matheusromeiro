@@ -1,8 +1,9 @@
 ## Opa, e aí pessoal!🙃
-### Eu sou o Matheus, e sejam bem-vindos ao meu perfil!😐
+### Eu aqui, e sejam bem-vindos ao meu perfil!😐
 
-- 🙂 Tenho 18 anos e sou Desenvolvedor Front-end;
+- 🙂 Tenho 19 anos e sou Desenvolvedor Front-end;
 - 👔 Estudo desenvolvimento web desde 2019;
+- 💼 Estou em busca do meu primeiro emprego;
 - 💪 Sempre que possível, procuro me especializar na minha área :)
 - ⚡ Fun facts😮: Gosto de café! Sim, café é vida!!☕☕
 

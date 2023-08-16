@@ -1,13 +1,11 @@
 # Opa, e aí pessoal!🙃
 ## Eu aqui, e sejam bem-vindos ao meu perfil!😐
 
----
-
 - 🙂 Tenho 19 anos e sou desenvolvedor front-end;
 - 💼 Estou em busca do meu primeiro emprego;
 - 💪 Sempre que possível, procuro me especializar na minha área :)
 - ⚡ Fun facts😮: Gosto de café! Sim, café é vida!!☕☕
-
+---
 <div>
   <a href="https://github.com/matheusmomeiro">
   <img widht="41%" src="https://github-readme-stats.vercel.app/api?username=matheusromeiro&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -22,12 +20,12 @@
   <img align="center" alt="matheus-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="matheus-React" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
-  
-##
+
+---
 
 <div>
   <a href = "mailto:matheucontrabaixoc4@gmail.com"><img style="margin-right=20px" src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/rom3ir0" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-  
+
 ![Snake animation](https://github.com/matheusromeiro/matheusromeiro/blob/output/github-contribution-grid-snake.svg)

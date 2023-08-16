@@ -1,13 +1,12 @@
 # Opa, e aí pessoal!🙃
 ## Eu aqui, e sejam bem-vindos ao meu perfil!😐
 
-- 🙂 Tenho 19 anos e sou Desenvolvedor Front-end;
-- 👔 Estudo desenvolvimento web desde 2019;
+---
+
+- 🙂 Tenho 19 anos e sou desenvolvedor front-end;
 - 💼 Estou em busca do meu primeiro emprego;
 - 💪 Sempre que possível, procuro me especializar na minha área :)
 - ⚡ Fun facts😮: Gosto de café! Sim, café é vida!!☕☕
-
-##
 
 <div>
   <a href="https://github.com/matheusmomeiro">

@@ -2,9 +2,8 @@
 ## It's me, and welcome to my profile! 🙂
 
 - 🙂 I'm 21 years old;
-- 💼 Currently looking job;
+- 💼 Currently looking a job;
 - 💪 Always learning and keeping myself updated :)
-- ⚡ Fun facts😮: I love coffee! Yes, coffee is life!! ☕☕
 
 <div style="display: inline_block"><br>
   <img align="center" alt="matheus-HTML" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">

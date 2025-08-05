@@ -1,8 +1,8 @@
 # Hey there, folks! 🙃
 ## It's me, and welcome to my profile! 🙂
 
-- 🙂 I'm 20 years old;
-- 💼 Currently looking for my first job;
+- 🙂 I'm 21 years old;
+- 💼 Currently looking job;
 - 💪 Always learning and keeping myself updated :)
 - ⚡ Fun facts😮: I love coffee! Yes, coffee is life!! ☕☕
 

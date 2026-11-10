@@ -1,7 +1,7 @@
 # Hey there, folks! 🙃
 ## It's me, and welcome to my profile! 🙂
 
-- 🙂 I'm 21 years old;
+- 🙂 I'm 22 years old;
 - 💼 Currently looking a job;
 - 💪 Always learning and keeping myself updated :)
 
